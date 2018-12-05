@@ -1,0 +1,9 @@
+const JSX= <div>
+	<h1>Minhazul Kabir</h1>
+	<p>SUST, SYLHET</p>
+	<ul>
+		<li>Dhaka</li>
+		<li>kabir110409@acc.edu.bd</li>
+		<li>www.facebook.com/MinhazulKabir</li>
+	</ul>
+</div>
